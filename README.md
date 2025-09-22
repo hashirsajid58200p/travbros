@@ -23,4 +23,4 @@ This project showcases a responsive, fast, and interactive UI for exploring trav
 - 🧩 Component-based architecture (React)  
 - 🌐 Static build ready for GitHub Pages deployment  
 
-## ⚠️ Note: This repository contains only the **production build** of the website (`index.html`, `assets/`). The source code was not included.  
+⚠️ Note: This repository contains only the **production build** of the website (`index.html`, `assets/`). The source code was not included.  
