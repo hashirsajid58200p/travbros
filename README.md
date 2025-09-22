@@ -1,7 +1,6 @@
 ## ✈️ TravBros - Frontend Website
 
-A modern **travel website frontend** built with **React** and powered by **Vite**.  
-This project showcases a responsive, fast, and interactive UI for exploring travel destinations and services.  
+A modern **travel website frontend** built with **React** and powered by **Vite**. This project showcases a responsive, fast, and interactive UI for exploring travel destinations and services.  
 
 ## 🌐 Live Demo
 🔗 [View TravBros](https://your-username.github.io/travbros-frontend/)  
